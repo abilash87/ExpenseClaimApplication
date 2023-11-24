@@ -1,0 +1,6 @@
+@ExpenseClaimApplication_HostAddress = http://localhost:5065
+
+GET {{ExpenseClaimApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
